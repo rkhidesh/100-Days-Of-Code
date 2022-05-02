@@ -9,6 +9,6 @@ I finished the Day 1 module and I learned the basics of Python. I completed 4 ex
 Python is pretty easy for beginners and I'm enjoying it very much!
 
 ### Link(s) To Work: 
-[Day1](rkhidesh/100-Days-Of-Code/day1.py) A very small and simple Python project.
+[Day1](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/day1.py) A very small and simple Python project.
 
 ---
