@@ -1,13 +1,14 @@
 ## Day 1
 
 ### Today's progress: 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+I finished the Day 1 module and I learned the basics of Python. I completed 4 exercises that comes with the module:
+![image](https://user-images.githubusercontent.com/102761065/166324060-ae88a8a9-1c62-4107-a1a7-b786cd452462.png)
+
 
 ### Thoughts: 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+Python is pretty easy for beginners and I'm enjoying it very much!
 
 ### Link(s) To Work: 
-[filename](/thepath) Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+[Day1](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/day1.py) A very small and simple Python project.
 
 ---
