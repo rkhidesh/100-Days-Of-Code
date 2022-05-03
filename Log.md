@@ -9,6 +9,21 @@ I finished the Day 1 module and I learned the basics of Python. I completed 4 ex
 Python is pretty easy for beginners and I'm enjoying it very much!
 
 ### Link(s) To Work: 
-[Day1](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/day1.py) A very small and simple Python project.
+[Day1](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day1.py) A very small and simple Python project.
+
+---
+
+## Day 2
+
+### Today's progress: 
+I finished the Day 2 module and I learned the data types, f strings and math operations (easy stuff). I completed 3 exercises that comes with the module:
+![image](https://user-images.githubusercontent.com/102761065/166498271-45767585-3e8f-4eac-bded-1f43e31ab3dd.png)
+
+
+### Thoughts: 
+Python's syntax is super easy, no need to define data types and such 👍
+
+### Link(s) To Work: 
+[Day2](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day2.py) A restaurant bill calculator.
 
 ---
