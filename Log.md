@@ -51,3 +51,19 @@ No regrets in choosing Python, I'm enjoying it so far!
 
 ---
 
+## Day 4
+
+### Today's progress: 
+I finished the Day 4 module. It covered lists. I've always had a hard time understanding arrays, lists and dictionaries. They get complex after scratching the surface. However, they are super important concepts in programming so I have to practice more!
+![image](https://user-images.githubusercontent.com/102761065/166746102-306ff15e-9946-43e3-b794-21ef30e93c60.png)
+
+
+### Thoughts: 
+Got to lists more.
+
+### Link(s) To Work: 
+- [Day3](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day3.py) A game where your choices determine your fate (kind of like real life 😅).
+- [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio.
+
+---
+
