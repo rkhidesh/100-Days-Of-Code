@@ -30,3 +30,24 @@ Python's syntax is super easy, no need to define data types and such 👍 CSS ge
 - [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio.
 
 ---
+
+
+## Day 3
+
+### Today's progress: 
+I finished the Day 3 module. It covered if/else, elif and conditional statements. I completed exercises that came with the module:
+![image](https://user-images.githubusercontent.com/102761065/166746102-306ff15e-9946-43e3-b794-21ef30e93c60.png)
+
+I continued working on my portfolio and I made the home page. I thought I would be using more JavaScript but I'm mostly using CSS 😕
+
+
+### Thoughts: 
+No regrets in choosing Python, I'm enjoying it so far! 
+
+
+### Link(s) To Work: 
+- [Day3](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day3.py) A game where your choices determine your fate (kind of like real life 😅).
+- [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio.
+
+---
+
