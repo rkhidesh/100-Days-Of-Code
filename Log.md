@@ -57,7 +57,7 @@ No regrets in choosing Python, I'm enjoying it so far!
 I finished the Day 4 module. It covered lists and randomization. I've always had a hard time understanding arrays, lists and dictionaries. They get complex after scratching the surface. However, they are super important concepts in programming so I have to practice more!
 ![image](https://user-images.githubusercontent.com/102761065/166982795-582c29c0-bc52-4b97-8b02-4ab834ee25dc.png)
 
-I added an About Me page but I don't have a clear idea of how I want my website to look so it's a little hard to write code 😅
+I added an About Me page in my Portfolio but I don't have a clear idea of how I want my website to look so it's a little hard to write code 😅
 
 ### Thoughts: 
 Got to lists more.
