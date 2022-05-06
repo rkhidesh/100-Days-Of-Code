@@ -60,10 +60,27 @@ I finished the Day 4 module. It covered lists and randomization. I've always had
 I added an About Me page in my Portfolio but I don't have a clear idea of how I want my website to look so it's a little hard to write code 😅
 
 ### Thoughts: 
-Got to lists more.
+Got to practice lists more.
 
 ### Link(s) To Work: 
 - [Day4](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day4.py) A rock-paper-scissors game!
+- [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio.
+
+---
+
+## Day 5
+
+### Today's progress: 
+I finished the Day 4 module. It was all about for loops, lists and randomization. It's getting hard but I'll just have to practice harder.
+![image]((https://user-images.githubusercontent.com/102761065/167181723-643903dc-83bc-4643-8746-9b8778cb943e.png)
+
+I changed up my the design of my Portfolio. Decided I didn't want to use multiple links rather, I want everything to be on one page with a smooth scrolling feature. It looks much more modern IMO.
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day5](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day5.py) A random password generator (this was a hard challenge and I couldn't tackle it by myself)
 - [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio.
 
 ---
