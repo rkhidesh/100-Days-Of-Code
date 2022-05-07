@@ -74,7 +74,7 @@ Got to practice lists more.
 I finished the Day 4 module. It was all about for loops, lists and randomization. It's getting hard but I'll just have to practice harder.
 ![image](https://user-images.githubusercontent.com/102761065/167181723-643903dc-83bc-4643-8746-9b8778cb943e.png)
 
-I changed up my the design of my Portfolio. Decided I didn't want to use multiple links rather, I want everything to be on one page with a smooth scrolling feature. It looks much more modern IMO.
+I changed up my the design of my Portfolio. Decided I didn't want to use multiple links. Rather, I want everything to be on one page with a smooth scrolling feature. It looks much more modern IMO.
 
 ### Thoughts: 
 Practice, practice, practice.
