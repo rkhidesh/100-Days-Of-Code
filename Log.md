@@ -71,7 +71,7 @@ Got to practice lists more.
 ## Day 5
 
 ### Today's progress: 
-I finished the Day 4 module. It was all about for loops, lists and randomization. It's getting hard but I'll just have to practice harder.
+I finished the Day 5 module. It was all about for loops, lists and randomization. It's getting hard but I'll just have to practice harder.
 ![image](https://user-images.githubusercontent.com/102761065/167181723-643903dc-83bc-4643-8746-9b8778cb943e.png)
 
 I changed up my the design of my Portfolio. Decided I didn't want to use multiple links. Rather, I want everything to be on one page with a smooth scrolling feature. It looks much more modern IMO.
@@ -84,4 +84,19 @@ Practice, practice, practice.
 - [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio.
 
 ---
+## Day 6
+
+### Today's progress: 
+I finished the Day 6 module. I learned about functions and while loops. There is a neat website called Reeborg's world and all the exercises were done there.
+https://reeborg.ca/index_en.html
+
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio.
+
+---
+
 
