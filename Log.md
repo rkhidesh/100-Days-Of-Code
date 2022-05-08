@@ -99,4 +99,19 @@ Practice, practice, practice.
 
 ---
 
+---
+## Day 7
+
+### Today's progress: 
+I finished the Day 7 module. I created a Hangman game. It got quite complicated but nevertheless, it was fun.
+- [Day7](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day7.py)
+
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio.
+
+---
 
