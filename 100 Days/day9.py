@@ -1,24 +1,39 @@
-alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+logo = '''
+                         ___________
+                         \         /
+                          )_______(
+                          |"""""""|_.-._,.---------.,_.-._
+                          |       | | |               | | ''-.
+                          |       |_| |_             _| |_..-'
+                          |_______| '-' `'---------'` '-'
+                          )"""""""(
+                         /_________\\
+                       .-------------.
+                      /_______________\\
+'''
+print(logo)
 
-def caesar(start_text, shift_amount, cipher_direction):
-  end_text = ""
-  if cipher_direction == "decode":
-    shift_amount *= -1
-  for char in start_text:
-    position = alphabet.index(char)
-    new_position = position + shift_amount
-    end_text += alphabet[new_position]
-    
-  print(f"Here's the {cipher_direction}d result: {end_text}")
+name_and_price = {}
+bidding_finished = False
 
-should_continue = True
-while should_continue:
-    direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n")
-    text = input("Type your message:\n").lower()
-    shift = int(input("Type the shift number:\n"))
-    caesar(start_text=text, shift_amount=shift, cipher_direction=direction)
-    yes_or_no = input("Type 'Yes' if you want to go again. Otherwise type 'No'. \n")
-    if yes_or_no == "No":
-      should_continue = False
-      print("Goodbye")
-    
+def find_highest_bidder(bidding_record):
+    highest_bid = 0
+    winner = ""
+    for bidder in bidding_record:
+        bid_amount = bidding_record[bidder]
+        if bid_amount > highest_bid:
+            highest_bid = bid_amount
+            winner = bidder
+    print("The winner is {winner} with a bid of ${highest_bid}")
+
+while not bidding_finished:
+    name = input("What is your name? \n")
+    bid_price = int(input("What is your bid price? \n$"))
+    name_and_price[name] = bid_price
+    other_users = input("Are there other users who want to bid? Type 'Yes' or 'No'\n")
+    if other_users == "No":
+        bidding_finished = True
+        find_highest_bidder(name_and_price)
+
+
+
