@@ -129,4 +129,21 @@ Practice, practice, practice.
 - [Day8](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day8.py)
 - [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio
 ---
+---
+## Day 9
+
+### Today's progress: 
+I finished the Day 9 module. It was about Python dictionaries.
+![image](https://user-images.githubusercontent.com/102761065/167701668-d65e00dc-f9be-4afa-9fca-509c217fceb3.png)
+I started doing the Mario and Princess Peach game. I already have some code written but I think I'll have to redo everything again.
+I also continued watching the "The Complete 2022 Web Development Bootcamp" on Udemy. I'm on the API module.
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day9](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day9.py)
+- [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio
+---
+
 
