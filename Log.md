@@ -104,13 +104,13 @@ Practice, practice, practice.
 
 ### Today's progress: 
 I finished the Day 7 module. I created a Hangman game. It got quite complicated but nevertheless, it was fun.
-- [Day7](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day7.py)
 
 
 ### Thoughts: 
 Practice, practice, practice.
 
 ### Link(s) To Work: 
+- [Day7](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day7.py)
 - [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio.
 
 ---
@@ -119,14 +119,14 @@ Practice, practice, practice.
 
 ### Today's progress: 
 I finished the Day 8 module. It was all about paramaters and arguments. It's getting harder and harder which is expected of course and it's very easy to be discouraged but, I'm still showing up every day and putting in the effort which I'm sure won't go to waste.
-- [Day8](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day8.py)
-
+![image](https://user-images.githubusercontent.com/102761065/167524227-229977f7-720a-432c-ba23-52f44cccb1df.png)
+I also worked on my portfolio. I did the Contact Page and all that's left is projects which I need to start working on 😅. I have a Mario and Princess Peach game which I want to make so I'll start working on that.
 
 ### Thoughts: 
 Practice, practice, practice.
 
 ### Link(s) To Work: 
-- [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio.
-
+- [Day8](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day8.py)
+- [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio
 ---
 
