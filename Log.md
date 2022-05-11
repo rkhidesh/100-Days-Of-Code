@@ -145,5 +145,23 @@ Practice, practice, practice.
 - [Day9](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day9.py)
 - [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio
 ---
+---
+## Day 10
+
+### Today's progress: 
+I finished the Day 10 module. It was about Functions with outputs.
+![image](https://user-images.githubusercontent.com/102761065/167936024-0acbb33e-bbb5-4c69-9b28-e7587baae409.png)
+I did CodeWars Python exercises.
+I made a Flappy Bird Game by follwing a YouTube tutorial and added that to the Projects section in my portfolio. I should come up with my own projects instead of following YouTube tutorials but I don't yet have the skill set needed to accomplish that ☹️
+(That sounds like an excuse 🤦‍♀️)
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day10](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day10.py) Made a Calculator
+- [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio
+---
+
 
 
