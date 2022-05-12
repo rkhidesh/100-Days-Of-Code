@@ -27,7 +27,7 @@ Python's syntax is super easy, no need to define data types and such 👍 CSS ge
 
 ### Link(s) To Work: 
 - [Day2](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day2.py) A restaurant bill calculator.
-- [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio.
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 
 ---
 
@@ -47,7 +47,7 @@ No regrets in choosing Python, I'm enjoying it so far!
 
 ### Link(s) To Work: 
 - [Day3](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day3.py) A game where your choices determine your fate (kind of like real life 😅).
-- [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio.
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 
 ---
 
@@ -64,7 +64,7 @@ Got to practice lists more.
 
 ### Link(s) To Work: 
 - [Day4](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day4.py) A rock-paper-scissors game!
-- [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio.
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 
 ---
 
@@ -81,7 +81,7 @@ Practice, practice, practice.
 
 ### Link(s) To Work: 
 - [Day5](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day5.py) A random password generator (this was a hard challenge and I couldn't tackle it by myself)
-- [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio.
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 
 ---
 ## Day 6
@@ -95,7 +95,7 @@ https://reeborg.ca/index_en.html
 Practice, practice, practice.
 
 ### Link(s) To Work: 
-- [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio.
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 
 ---
 
@@ -111,7 +111,7 @@ Practice, practice, practice.
 
 ### Link(s) To Work: 
 - [Day7](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day7.py)
-- [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio.
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 
 ---
 ---
@@ -127,7 +127,7 @@ Practice, practice, practice.
 
 ### Link(s) To Work: 
 - [Day8](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day8.py)
-- [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
 ## Day 9
@@ -143,7 +143,25 @@ Practice, practice, practice.
 
 ### Link(s) To Work: 
 - [Day9](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day9.py)
-- [Portfolio](https://github.com/rkhidesh/Portfolio/tree/main/Rebecca's%20Portfolio) My portfolio
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
+---
+## Day 10
+
+### Today's progress: 
+I finished the Day 10 module. It was about Functions with outputs.
+![image](https://user-images.githubusercontent.com/102761065/167936024-0acbb33e-bbb5-4c69-9b28-e7587baae409.png)
+I did CodeWars Python exercises.
+I made a Flappy Bird Game by follwing a YouTube tutorial and added that to the Projects section in my portfolio. I should come up with my own projects instead of following YouTube tutorials but I don't yet have the skill set needed to accomplish that ☹️
+(That sounds like an excuse 🤦‍♀️)
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day10](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day10.py) Made a Calculator
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+
 
 
