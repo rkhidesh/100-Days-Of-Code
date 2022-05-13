@@ -163,5 +163,33 @@ Practice, practice, practice.
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 
+---
+## Day 11
 
+### Today's progress: 
+I finished the Day 11 module. The whole module was a Blackjack game.
+I decided to make a calculator using HTML, CSS and JavaScript. I also decided that I will not follow any tutorials and just use my brain to put in the effort and make the calculator work. Today I worked on the design part and tomorrow I'll start implementing JS for functionality.
+![image](https://user-images.githubusercontent.com/102761065/168331158-7f102a9b-9d22-4e6a-a89e-67dcfcaa3e45.png)
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day11](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day11.py) Blackjack game
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+
+---
+## Day 12
+
+### Today's progress: 
+I finished the Day 12 module. I made a number guessing game and I did by myself! Although Angela's code was much more sophisticated, mine still worked! 😄
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day12](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day12.py) Number guessing game
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
 
