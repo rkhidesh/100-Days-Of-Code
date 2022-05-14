@@ -184,12 +184,26 @@ Practice, practice, practice.
 
 ### Today's progress: 
 I finished the Day 12 module. I made a number guessing game and I did by myself! Although Angela's code was much more sophisticated, mine still worked! 😄
+I started thinking about how I will go about making my caclulator. First thing is that I want the buttons to react to a user clicking and my friends helped me figure it out! Next step is to get the value of the buttons so I can perform the operations on them.
 
 ### Thoughts: 
 Practice, practice, practice.
 
 ### Link(s) To Work: 
 - [Day12](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day12.py) Number guessing game
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 13
+
+### Today's progress: 
+Day 13 was all about debugging which I enjoyed actually. I used my brain and a debugger called Thonny to solve problems.
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day13](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day13.py) Debugging a bunch of problems
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 
