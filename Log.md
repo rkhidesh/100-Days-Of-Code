@@ -198,6 +198,7 @@ Practice, practice, practice.
 
 ### Today's progress: 
 Day 13 was all about debugging which I enjoyed actually. I used my brain and a debugger called Thonny to solve problems.
+![image](https://user-images.githubusercontent.com/102761065/168442636-9a3df214-c71b-4b45-855e-edeef60c93d5.png)
 
 ### Thoughts: 
 Practice, practice, practice.
