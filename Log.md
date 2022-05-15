@@ -207,4 +207,18 @@ Practice, practice, practice.
 - [Day13](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day13.py) Debugging a bunch of problems
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
+---
+## Day 14
+
+### Today's progress: 
+I created a game in Python called Higher or Lower. I'm moving on to the Intermediate part of this course. 🥳
+I tinkered with my JavaScript code and searched for ways to display the value of my buttons in the output of the calculator. I found some ways and that includes turning my buttons into inputs for it to work.
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day14](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day14.py) Higher or Lower Game
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
 
