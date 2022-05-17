@@ -221,4 +221,17 @@ Practice, practice, practice.
 - [Day14](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day14.py) Higher or Lower Game
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
+---
+## Day 15
+
+### Today's progress: 
+Today, I replicated a coffee machine in Python ☕
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day15](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day15.py) Coffee Machine
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
 
