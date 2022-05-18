@@ -234,4 +234,17 @@ Practice, practice, practice.
 - [Day15](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day15.py) Coffee Machine
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
+---
+## Day 16
 
+### Today's progress: 
+I learned about classes, objects, attributes and methods in Python. It wasn't too hard since I already have prior knowledge of these concepts in C#. 
+Finally, we have progress in my calculator project. I have displayed all the numbers in the output as well as added a clear button to clear the div. I can finally start working on the actual operations.
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day16](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day16.py) Practiced making objects, classes and importing libraries. 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
