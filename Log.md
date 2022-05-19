@@ -248,3 +248,43 @@ Practice, practice, practice.
 - [Day16](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day16.py) Practiced making objects, classes and importing libraries. 
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
+---
+## Day 17
+
+### Today's progress: 
+I only did the Day 17 module today and it was about creating a quiz game using classes in Python
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day17](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day17.py) Quiz game.
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 17
+
+### Today's progress: 
+I only did the Day 17 module today and it was about creating a quiz game using classes in Python
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day17](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day17.py) Quiz game.
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 18
+
+### Today's progress: 
+I dived deep into the turtle module in Python and created a spirograph.
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day18](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day18.py) Spirograph.
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+
