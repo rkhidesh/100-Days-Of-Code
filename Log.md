@@ -279,6 +279,7 @@ Practice, practice, practice.
 
 ### Today's progress: 
 I dived deep into the turtle module in Python and created a spirograph.
+I tinkered with my JS calculator and I'm trying to find ways to perform operations on button values. I searched Stack Overflow found one question similar to mine and I tried the solution code but it just gave me a NaN output (which is better than nothing but it's not what I want 😅). I was tempted to just copy paste someone's code from YouTube but I slapped myself and got back on track. I might post a question on Stack Overflow if I get super stuck.
 
 ### Thoughts: 
 Practice, practice, practice.
