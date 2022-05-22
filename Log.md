@@ -288,4 +288,29 @@ Practice, practice, practice.
 - [Day18](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day18.py) Spirograph.
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
+---
+## Day 19
 
+### Today's progress: 
+Using the turtule module I made a turtle racing game. It was actually very fun!
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day19](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day18.py) Turtle Race.
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 20
+
+### Today's progress: 
+Did the part 1 of Snake Game in Python. 🐍 It is a little challangening and complicated but that is expected.
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day20](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day18.py) Snake Game Part 1.
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
