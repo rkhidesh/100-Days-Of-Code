@@ -298,19 +298,46 @@ Using the turtule module I made a turtle racing game. It was actually very fun!
 Practice, practice, practice.
 
 ### Link(s) To Work: 
-- [Day19](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day18.py) Turtle Race.
+- [Day19](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day19.py) Turtle Race.
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
 ## Day 20
 
 ### Today's progress: 
-Did the part 1 of Snake Game in Python. 🐍 It is a little challangening and complicated but that is expected.
+Did the part 1 of Snake Game in Python. 🐍 It is a little challenging and complicated but that is expected.
 
 ### Thoughts: 
 Practice, practice, practice.
 
 ### Link(s) To Work: 
-- [Day20](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day18.py) Snake Game Part 1.
+- [Day20](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day20) Snake Game Part 1.
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
+---
+## Day 21
+
+### Today's progress: 
+Finished the snake game in Python. It covered inheritance and list slicing. Thanks to C# I was familiar with the concept.Haven't touched my calculator project in a while :/
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day21](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day21) Snake Game Part 2.
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 22
+
+### Today's progress: 
+Made a new game called pong in Python. I used again the turtle module which is very interesting actually. It's getting harder and harder but I'm still persisting so that's good.
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day22](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day22) Pong game.
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+
