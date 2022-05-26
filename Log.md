@@ -340,4 +340,18 @@ Practice, practice, practice.
 - [Day22](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day22) Pong game.
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
+---
+## Day 23
 
+### Today's progress: 
+Using the turtule module again, I created a turtle crossing game.
+
+After research and posting on stackoverflow, I finally found the solution to my calculator. I didn't know that the join() method could be useful but after dissecting my code it makes sense. I added the project to my portfolio! Now, I gotta start a new project.
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day22](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day23) Turtle Crossing.
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
