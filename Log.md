@@ -352,6 +352,19 @@ After research and posting on stackoverflow, I finally found the solution to my 
 Practice, practice, practice.
 
 ### Link(s) To Work: 
-- [Day22](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day23) Turtle Crossing.
+- [Day23](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day23) Turtle Crossing.
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 24
+
+### Today's progress: 
+I've reached the files, directories, and paths part in Python. Yeah, it's getting more and more complex. 😖
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day24](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day24)
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
