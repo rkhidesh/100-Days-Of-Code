@@ -395,3 +395,16 @@ Practice, practice, practice.
 - [Day26](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day26)
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
+---
+## Day 27
+
+### Today's progress: 
+I'm diving into Python's GUI. Its similar to C# so its not so bad so far.
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day26](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day27)Miles to Km Converter
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
