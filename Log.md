@@ -368,3 +368,30 @@ Practice, practice, practice.
 - [Day24](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day24)
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
+---
+## Day 25
+
+### Today's progress: 
+All about readiing csv files in Python using Pandas. I'm feeling uninspired about my next JavaScript project.
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day25](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day25)
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 26
+
+### Today's progress: 
+I learned about list and dictionary comprehension in Python. Turns out Python has ways to shorten the for loop code into one sentence.
+![image](https://user-images.githubusercontent.com/102761065/170883534-f586ea80-526b-4f86-a3fd-76fc6594fb3a.png)
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day26](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day26)
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
