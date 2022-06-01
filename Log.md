@@ -405,7 +405,7 @@ I'm diving into Python's GUI. Its similar to C# so its not so bad so far.
 Practice, practice, practice.
 
 ### Link(s) To Work: 
-- [Day27](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day27)Miles to Km Converter
+- [Day27](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day27) Miles to Km Converter
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
@@ -421,7 +421,7 @@ I made a Pomodoro timer in Python which is a time management method designed to 
 Practice, practice, practice.
 
 ### Link(s) To Work: 
-- [Day28](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day28)Pomodoro Timer
+- [Day28](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day28) Pomodoro Timer
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
