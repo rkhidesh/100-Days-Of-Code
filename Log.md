@@ -425,3 +425,16 @@ Practice, practice, practice.
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
+## Day 29
+
+### Today's progress: 
+In Python, I'm working a lot with GUI and I made a Passoword Managing App. As for the Pomodoro Project, I set the design up and I also coded up a countdown timer. Now, I have to figure out how to loop this countdown pattern.
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day29](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day29) Passwod Manager App
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
