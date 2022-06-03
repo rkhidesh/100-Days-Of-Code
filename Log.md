@@ -438,3 +438,30 @@ Practice, practice, practice.
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
+## Day 30
+
+### Today's progress: 
+I learned about Json serializing and deserializing and I rememberd the nightmare it was in C#. But thankfully, it is not as complicated in Python as it is in C#. 
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day30](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day30) Passwod Manager App
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 31
+
+### Today's progress: 
+Flashcards project in Python.
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day31](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day31) English to French Flashcards
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+
