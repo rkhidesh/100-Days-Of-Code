@@ -454,7 +454,7 @@ Practice, practice, practice.
 ## Day 31
 
 ### Today's progress: 
-Flashcards project in Python.
+Flashcards project in Python. I'm having trouble with the looping of  my countdown pattern :confused:
 
 ### Thoughts: 
 Practice, practice, practice.
@@ -465,3 +465,16 @@ Practice, practice, practice.
 ---
 ---
 
+## Day 33
+
+### Today's progress: 
+Learned how to send emails using Python. I made an Automated Birthday Wisher.
+
+### Thoughts: 
+Practice, practice, practice.
+
+### Link(s) To Work: 
+- [Day32](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day32) Automated Birthday Wisher
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
