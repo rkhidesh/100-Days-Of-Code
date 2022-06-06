@@ -468,13 +468,12 @@ Practice, practice, practice.
 ## Day 33
 
 ### Today's progress: 
-Learned how to send emails using Python. I made an Automated Birthday Wisher.
-
+Started working with API's in Python. No progress in the Pomodoro project so far...
 ### Thoughts: 
 Practice, practice, practice.
 
 ### Link(s) To Work: 
-- [Day32](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day32) Automated Birthday Wisher
+- [Day33](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day33) API
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
