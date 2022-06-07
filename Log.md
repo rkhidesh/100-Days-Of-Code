@@ -477,3 +477,17 @@ Practice, practice, practice.
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
+
+## Day 34
+
+### Today's progress: 
+I combined API with GUI and upgraded the trivia quiz project i made days ago.
+### Thoughts: 
+The loops seem to break my Pomodoro code because the setInterval function is very sensitive. I'm trying to use an if else statement but it still doesn't work.
+
+### Link(s) To Work: 
+- [Day34](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day34) API
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+
