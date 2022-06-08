@@ -454,7 +454,7 @@ Practice, practice, practice.
 ## Day 31
 
 ### Today's progress: 
-Flashcards project in Python. I'm having trouble with the looping of  my countdown pattern :confused:
+Flashcards project in Python. I'm having trouble with the looping of  my countdown pattern :confused:	
 
 ### Thoughts: 
 Practice, practice, practice.
@@ -487,6 +487,18 @@ The loops seem to break my Pomodoro code because the setInterval function is ver
 
 ### Link(s) To Work: 
 - [Day34](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day34) API
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+
+## Day 35
+
+### Today's progress: 
+More Api's. Another thing, I have been using tkinter when creating Python GUI's BUT, apparently, it's an old interface and Kivy is a newer, better and preferred GUI for Python. So, I'm following a YouTube tutorial to start learning it. 
+### Thoughts: 
+No thoughts. Brain empty.
+### Link(s) To Work: 
+- [Day35](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day35) Weather Api
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
