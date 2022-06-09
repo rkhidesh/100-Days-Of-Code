@@ -1,12 +1,12 @@
 ## Day 1
 
 ### Today's progress: 
-I finished the Day 1 module and I learned the basics of Python. I completed 4 exercises that comes with the module:
+I finished the Day 1 module, and I learned the basics of Python. I completed 4 exercises that comes with the module:
 ![image](https://user-images.githubusercontent.com/102761065/166324060-ae88a8a9-1c62-4107-a1a7-b786cd452462.png)
 
 
 ### Thoughts: 
-Python is pretty easy for beginners and I'm enjoying it very much!
+Python is pretty easy for beginners, and I'm enjoying it very much!
 
 ### Link(s) To Work: 
 - [Day1](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day1.py) A very small and simple Python project.
@@ -16,10 +16,10 @@ Python is pretty easy for beginners and I'm enjoying it very much!
 ## Day 2
 
 ### Today's progress: 
-I finished the Day 2 module and I learned the data types, f strings and math operations (easy stuff). I completed 3 exercises that comes with the module:
+I finished the Day 2 module, and I learned the data types, f strings and math operations (easy stuff). I completed 3 exercises that comes with the module:
 ![image](https://user-images.githubusercontent.com/102761065/166498271-45767585-3e8f-4eac-bded-1f43e31ab3dd.png)
 
-Aside from that, I got started with my portfolio and I chose the palette for my website, I created the navbar and logo.
+Aside from that, I got started with my portfolio, and I chose the palette for my website, I created the navbar and logo.
 
 ### Thoughts: 
 Python's syntax is super easy, no need to define data types and such 👍 CSS gets annoying sometimes 🥲
@@ -38,7 +38,7 @@ Python's syntax is super easy, no need to define data types and such 👍 CSS ge
 I finished the Day 3 module. It covered if/else, elif and conditional statements. I completed exercises that came with the module:
 ![image](https://user-images.githubusercontent.com/102761065/166746102-306ff15e-9946-43e3-b794-21ef30e93c60.png)
 
-I continued working on my portfolio and I made the home page. I thought I would be using more JavaScript but I'm mostly using CSS 😕
+I continued working on my portfolio, and I made the home page. I thought I would be using more JavaScript, but I'm mostly using CSS 😕
 
 
 ### Thoughts: 
@@ -54,10 +54,10 @@ No regrets in choosing Python, I'm enjoying it so far!
 ## Day 4
 
 ### Today's progress: 
-I finished the Day 4 module. It covered lists and randomization. I've always had a hard time understanding arrays, lists and dictionaries. They get complex after scratching the surface. However, they are super important concepts in programming so I have to practice more!
+I finished the Day 4 module. It covered lists and randomization. I've always had a hard time understanding arrays, lists and dictionaries. They get complex after scratching the surface. However, they are super important concepts in programming, so I have to practice more!
 ![image](https://user-images.githubusercontent.com/102761065/166982795-582c29c0-bc52-4b97-8b02-4ab834ee25dc.png)
 
-I added an About Me page in my Portfolio but I don't have a clear idea of how I want my website to look so it's a little hard to write code 😅
+I added an About Me page in my Portfolio, but I don't have a clear idea of how I want my website to look, so it's a little hard to write code 😅
 
 ### Thoughts: 
 Got to practice lists more.
@@ -71,7 +71,7 @@ Got to practice lists more.
 ## Day 5
 
 ### Today's progress: 
-I finished the Day 5 module. It was all about for loops, lists and randomization. It's getting hard but I'll just have to practice harder.
+I finished the Day 5 module. It was all about for loops, lists and randomization. It's getting hard, but I'll just have to practice harder.
 ![image](https://user-images.githubusercontent.com/102761065/167181723-643903dc-83bc-4643-8746-9b8778cb943e.png)
 
 I changed up my the design of my Portfolio. Decided I didn't want to use multiple links. Rather, I want everything to be on one page with a smooth scrolling feature. It looks much more modern IMO.
@@ -80,7 +80,7 @@ I changed up my the design of my Portfolio. Decided I didn't want to use multipl
 Practice, practice, practice.
 
 ### Link(s) To Work: 
-- [Day5](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day5.py) A random password generator (this was a hard challenge and I couldn't tackle it by myself)
+- [Day5](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day5.py) A random password generator (this was a hard challenge, and I couldn't tackle it by myself)
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 
 ---
@@ -118,7 +118,7 @@ Practice, practice, practice.
 ## Day 8
 
 ### Today's progress: 
-I finished the Day 8 module. It was all about paramaters and arguments. It's getting harder and harder which is expected of course and it's very easy to be discouraged but, I'm still showing up every day and putting in the effort which I'm sure won't go to waste.
+I finished the Day 8 module. It was all about parameters and arguments. It's getting harder and harder which is expected of course, and it's very easy to be discouraged but, I'm still showing up every day and putting in the effort which I'm sure won't go to waste.
 ![image](https://user-images.githubusercontent.com/102761065/167524227-229977f7-720a-432c-ba23-52f44cccb1df.png)
 I also worked on my portfolio. I did the Contact Page and all that's left is projects which I need to start working on 😅. I have a Mario and Princess Peach game which I want to make, so I'll start working on that.
 
@@ -135,7 +135,7 @@ Practice, practice, practice.
 ### Today's progress: 
 I finished the Day 9 module. It was about Python dictionaries.
 ![image](https://user-images.githubusercontent.com/102761065/167701668-d65e00dc-f9be-4afa-9fca-509c217fceb3.png)
-I started doing the Mario and Princess Peach game. I already have some code written but I think I'll have to redo everything again.
+I started doing the Mario and Princess Peach game. I already have some code written, but I think I'll have to redo everything again.
 I also continued watching the "The Complete 2022 Web Development Bootcamp" on Udemy. I'm on the API module.
 
 ### Thoughts: 
@@ -152,7 +152,7 @@ Practice, practice, practice.
 I finished the Day 10 module. It was about Functions with outputs.
 ![image](https://user-images.githubusercontent.com/102761065/167936024-0acbb33e-bbb5-4c69-9b28-e7587baae409.png)
 I did CodeWars Python exercises.
-I made a Flappy Bird Game by follwing a YouTube tutorial and added that to the Projects section in my portfolio. I should come up with my own projects instead of following YouTube tutorials but I don't yet have the skill set needed to accomplish that ☹️
+I made a Flappy Bird Game by following a YouTube tutorial and added that to the Projects' section in my portfolio. I should come up with my own projects instead of following YouTube tutorials, but I don't yet have the skill set needed to accomplish that ☹️
 (That sounds like an excuse 🤦‍♀️)
 
 ### Thoughts: 
@@ -183,8 +183,8 @@ Practice, practice, practice.
 ## Day 12
 
 ### Today's progress: 
-I finished the Day 12 module. I made a number guessing game and I did by myself! Although Angela's code was much more sophisticated, mine still worked! 😄
-I started thinking about how I will go about making my caclulator. First thing is that I want the buttons to react to a user clicking and my friends helped me figure it out! Next step is to get the value of the buttons so I can perform the operations on them.
+I finished the Day 12 module. I made a number guessing game, and I did by myself! Although Angela's code was much more sophisticated, mine still worked! 😄
+I started thinking about how I will go about making my calculator. First thing is that I want the buttons to react to a user clicking and my friends helped me figure it out! Next step is to get the value of the buttons, so I can perform the operations on them.
 
 ### Thoughts: 
 Practice, practice, practice.
@@ -197,7 +197,7 @@ Practice, practice, practice.
 ## Day 13
 
 ### Today's progress: 
-Day 13 was all about debugging which I enjoyed actually. I used my brain and a debugger called Thonny to solve problems.
+Day 13 was all about debugging which I enjoyed, actually. I used my brain and a debugger called Thonny to solve problems.
 ![image](https://user-images.githubusercontent.com/102761065/168442636-9a3df214-c71b-4b45-855e-edeef60c93d5.png)
 
 ### Thoughts: 
@@ -252,7 +252,7 @@ Practice, practice, practice.
 ## Day 17
 
 ### Today's progress: 
-I only did the Day 17 module today and it was about creating a quiz game using classes in Python
+I only did the Day 17 module today, and it was about creating a quiz game using classes in Python
 
 ### Thoughts: 
 Practice, practice, practice.
@@ -265,7 +265,7 @@ Practice, practice, practice.
 ## Day 17
 
 ### Today's progress: 
-I only did the Day 17 module today and it was about creating a quiz game using classes in Python
+I only did the Day 17 module today, and it was about creating a quiz game using classes in Python
 
 ### Thoughts: 
 Practice, practice, practice.
@@ -279,7 +279,7 @@ Practice, practice, practice.
 
 ### Today's progress: 
 I dived deep into the turtle module in Python and created a spirograph.
-I tinkered with my JS calculator and I'm trying to find ways to perform operations on button values. I searched Stack Overflow found one question similar to mine and I tried the solution code but it just gave me a NaN output (which is better than nothing but it's not what I want 😅). I was tempted to just copy paste someone's code from YouTube but I slapped myself and got back on track. I might post a question on Stack Overflow if I get super stuck.
+I tinkered with my JS calculator, and I'm trying to find ways to perform operations on button values. I searched Stack Overflow found one question similar to mine, and I tried the solution code, but it just gave me a NaN output (which is better than nothing, but it's not what I want 😅). I was tempted to just copy and paste someone's code from YouTube, but I slapped myself and got back on track. I might post a question on Stack Overflow if I get super stuck.
 
 ### Thoughts: 
 Practice, practice, practice.
@@ -292,7 +292,7 @@ Practice, practice, practice.
 ## Day 19
 
 ### Today's progress: 
-Using the turtule module I made a turtle racing game. It was actually very fun!
+Using the turtle module I made a turtle racing game. It was actually very fun!
 
 ### Thoughts: 
 Practice, practice, practice.
@@ -331,7 +331,7 @@ Practice, practice, practice.
 ## Day 22
 
 ### Today's progress: 
-Made a new game called pong in Python. I used again the turtle module which is very interesting actually. It's getting harder and harder but I'm still persisting so that's good.
+Made a new game called pong in Python. I used again the turtle module which is very interesting, actually. It's getting harder and harder, but I'm still persisting so that's good.
 
 ### Thoughts: 
 Practice, practice, practice.
@@ -344,9 +344,9 @@ Practice, practice, practice.
 ## Day 23
 
 ### Today's progress: 
-Using the turtule module again, I created a turtle crossing game.
+Using the turtle module again, I created a turtle crossing game.
 
-After research and posting on stackoverflow, I finally found the solution to my calculator. I didn't know that the join() method could be useful but after dissecting my code it makes sense. I added the project to my portfolio! Now, I gotta start a new project.
+After research and posting on stackoverflow, I finally found the solution to my calculator. I didn't know that the join() method could be useful but after dissecting my code it makes sense. I added the project to my portfolio! Now, I have to start a new project.
 
 ### Thoughts: 
 Practice, practice, practice.
@@ -372,7 +372,7 @@ Practice, practice, practice.
 ## Day 25
 
 ### Today's progress: 
-All about readiing csv files in Python using Pandas. I'm feeling uninspired about my next JavaScript project.
+All about reading csv files in Python using Pandas. I'm feeling uninspired about my next JavaScript project.
 
 ### Thoughts: 
 Practice, practice, practice.
@@ -399,7 +399,7 @@ Practice, practice, practice.
 ## Day 27
 
 ### Today's progress: 
-I'm diving into Python's GUI. Its similar to C# so its not so bad so far.
+I'm diving into Python's GUI. It's similar to C# so It's not so bad so far.
 
 ### Thoughts: 
 Practice, practice, practice.
@@ -428,26 +428,26 @@ Practice, practice, practice.
 ## Day 29
 
 ### Today's progress: 
-In Python, I'm working a lot with GUI and I made a Passoword Managing App. As for the Pomodoro Project, I set the design up and I also coded up a countdown timer. Now, I have to figure out how to loop this countdown pattern.
+In Python, I'm working a lot with GUI and I made a Password Managing App. As for the Pomodoro Project, I set the design up, and I also coded up a countdown timer. Now, I have to figure out how to loop this countdown pattern.
 
 ### Thoughts: 
 Practice, practice, practice.
 
 ### Link(s) To Work: 
-- [Day29](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day29) Passwod Manager App
+- [Day29](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day29) Password Manager App
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
 ## Day 30
 
 ### Today's progress: 
-I learned about Json serializing and deserializing and I rememberd the nightmare it was in C#. But thankfully, it is not as complicated in Python as it is in C#. 
+I learned about Json serializing and deserializing, and I remembered the nightmare it was in C#. But thankfully, it is not as complicated in Python as it is in C#. 
 
 ### Thoughts: 
 Practice, practice, practice.
 
 ### Link(s) To Work: 
-- [Day30](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day30) Passwod Manager App
+- [Day30](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day30) Password Manager App
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
@@ -468,7 +468,7 @@ Practice, practice, practice.
 ## Day 33
 
 ### Today's progress: 
-Started working with API's in Python. No progress in the Pomodoro project so far...
+Started working with APIs in Python. No progress in the Pomodoro project so far...
 ### Thoughts: 
 Practice, practice, practice.
 
@@ -481,9 +481,9 @@ Practice, practice, practice.
 ## Day 34
 
 ### Today's progress: 
-I combined API with GUI and upgraded the trivia quiz project i made days ago.
+I combined API with GUI and upgraded the trivia quiz project I made days ago.
 ### Thoughts: 
-The loops seem to break my Pomodoro code because the setInterval function is very sensitive. I'm trying to use an if else statement but it still doesn't work.
+The loops seem to break my Pomodoro code because the setInterval function is very sensitive. I'm trying to use an if else statement, but it still doesn't work.
 
 ### Link(s) To Work: 
 - [Day34](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day34) API
@@ -494,11 +494,22 @@ The loops seem to break my Pomodoro code because the setInterval function is ver
 ## Day 35
 
 ### Today's progress: 
-More Api's. Another thing, I have been using tkinter when creating Python GUI's BUT, apparently, it's an old interface and Kivy is a newer, better and preferred GUI for Python. So, I'm following a YouTube tutorial to start learning it. 
+More App's. Another thing, I have been using tkinter when creating Python GUI's BUT, apparently, it's an old interface and Kivy is a newer, better and preferred GUI for Python. So, I'm following a YouTube tutorial to start learning it. 
 ### Thoughts: 
 No thoughts. Brain empty.
 ### Link(s) To Work: 
 - [Day35](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day35) Weather Api
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 36
+
+### Today's progress: 
+Made a stock trading project using API. Finally, with the help of my friend, I solved the Pomodoro Project. Now, I just need to make small changes in order to enhance user experience, and I'll be done :smiley:	
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day36](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day36) Stock API
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
