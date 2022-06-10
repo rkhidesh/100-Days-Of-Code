@@ -494,7 +494,7 @@ The loops seem to break my Pomodoro code because the setInterval function is ver
 ## Day 35
 
 ### Today's progress: 
-More App's. Another thing, I have been using tkinter when creating Python GUI's BUT, apparently, it's an old interface and Kivy is a newer, better and preferred GUI for Python. So, I'm following a YouTube tutorial to start learning it. 
+More APIs. Another thing, I have been using tkinter when creating Python GUI's BUT, apparently, it's an old interface and Kivy is a newer, better and preferred GUI for Python. So, I'm following a YouTube tutorial to start learning it. 
 ### Thoughts: 
 No thoughts. Brain empty.
 ### Link(s) To Work: 
@@ -510,6 +510,29 @@ Made a stock trading project using API. Finally, with the help of my friend, I s
 Practice, practice, practice
 ### Link(s) To Work: 
 - [Day36](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day36) Stock API
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 37
+
+### Today's progress: 
+More and more APIs. When attempting to enhance user experience in my Pomodoro Project, I ran into some bugs, so now we are trying to fix those bugs. I also decided I want to add a pause button, so that the user can be able to pause the timer if they wish.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day37](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day37) Habit Tracking API
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 38
+
+### Today's progress: 
+Got the main code debugged, now I'm working on the Pause button.
+Made a workout tracking project using google sheets.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day38](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day38) Workout Tracking API
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
