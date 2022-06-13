@@ -536,4 +536,26 @@ Practice, practice, practice
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
+## Day 39
+
+### Today's progress: 
+I'm working on a Flight Deal Finder in Python. I'm thinking of making a trivia game as my next project, using API in Javascript
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day39&day49](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day39&day40) Python Project part 1
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 40
+
+### Today's progress: 
+I'm trying to find a way to work with Json Files so that I can get the information I need from the API link.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day39&day49](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day39&day40) Python Project part 1
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
 
