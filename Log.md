@@ -429,6 +429,7 @@ Practice, practice, practice.
 
 ### Today's progress: 
 In Python, I'm working a lot with GUI and I made a Password Managing App. As for the Pomodoro Project, I set the design up, and I also coded up a countdown timer. Now, I have to figure out how to loop this countdown pattern.
+![image](https://user-images.githubusercontent.com/102761065/173715506-f20c64f8-ba5f-422e-af06-154cb69c1d15.png)
 
 ### Thoughts: 
 Practice, practice, practice.
@@ -558,4 +559,35 @@ Practice, practice, practice
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
+## Day 41
+
+### Today's progress: 
+They Python course is going over HTML right now so not much to report:
+![image](https://user-images.githubusercontent.com/102761065/173715190-d2691b56-8389-4cee-a257-88418878f635.png)
+
+I'm trying to extract the API data in the format I want to look. No luck for now.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 42
+
+### Today's progress: 
+They Python course is going over HTML right now so not much to report:
+![image](https://user-images.githubusercontent.com/102761065/173715305-ff3bf05f-cea8-4114-a3c6-88826e3436ba.png)
+
+I did it! I got the questions from the API and I also created the interface:
+![image](https://user-images.githubusercontent.com/102761065/173715377-a211597e-27b9-4a4a-b5f5-3aa17b8e807c.png)
+Now, is the tough part, coding the actual logic.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+
+
+
 
