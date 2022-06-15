@@ -562,7 +562,7 @@ Practice, practice, practice
 ## Day 41
 
 ### Today's progress: 
-They Python course is going over HTML right now so not much to report:
+They Python course is going over HTML right now so not much to report: <br>
 ![image](https://user-images.githubusercontent.com/102761065/173715190-d2691b56-8389-4cee-a257-88418878f635.png)
 
 I'm trying to extract the API data in the format I want to look. No luck for now.
@@ -575,7 +575,7 @@ Practice, practice, practice
 ## Day 42
 
 ### Today's progress: 
-They Python course is going over HTML right now so not much to report:
+They Python course is going over HTML right now so not much to report: <br>
 ![image](https://user-images.githubusercontent.com/102761065/173715305-ff3bf05f-cea8-4114-a3c6-88826e3436ba.png)
 
 I did it! I got the questions from the API and I also created the interface:
