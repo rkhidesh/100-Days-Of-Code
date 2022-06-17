@@ -587,6 +587,35 @@ Practice, practice, practice
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
+## Day 43
+
+### Today's progress: 
+We moved on to the CSS part in the Python course.<br>
+![image](https://user-images.githubusercontent.com/102761065/174202669-c39dfc42-f8c0-4f15-90df-fbe3b468de9c.png)
+
+Having a tough time coming up with the logic 😕
+
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 44
+
+### Today's progress: 
+Last part of CSS and we are going back to Python content tomorrow<br>
+![image](https://user-images.githubusercontent.com/102761065/174202906-5aefdfa7-0bef-4468-8ca1-fc9111c8a5d2.png)
+
+Not much progress. Thought I could use arrays and push my questions into an array but its not working as i hoped
+
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+
 
 
 
