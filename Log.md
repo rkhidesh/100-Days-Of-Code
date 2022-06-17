@@ -607,7 +607,7 @@ Practice, practice, practice
 Last part of CSS and we are going back to Python content tomorrow<br>
 ![image](https://user-images.githubusercontent.com/102761065/174202906-5aefdfa7-0bef-4468-8ca1-fc9111c8a5d2.png)
 
-Not much progress. Thought I could use arrays and push my questions into an array but its not working as i hoped
+Not much progress. Thought I could use arrays and push my questions into an array but its not working as I hoped.
 
 ### Thoughts: 
 Practice, practice, practice
