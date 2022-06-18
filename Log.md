@@ -544,7 +544,7 @@ I'm working on a Flight Deal Finder in Python. I'm thinking of making a trivia g
 ### Thoughts: 
 Practice, practice, practice
 ### Link(s) To Work: 
-- [Day39&day49](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day39&day40) Python Project part 1
+- [Day39&day40](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day39&day40) Python Project part 1
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
@@ -555,7 +555,7 @@ I'm trying to find a way to work with Json Files so that I can get the informati
 ### Thoughts: 
 Practice, practice, practice
 ### Link(s) To Work: 
-- [Day39&day49](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day39&day40) Python Project part 1
+- [Day39&day40](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day39&day40) Python Project part 1
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
@@ -615,6 +615,21 @@ Practice, practice, practice
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
+
+## Day 45
+
+### Today's progress: 
+Learned how to parse HTML websites using Beautiful Soup in Python.
+
+No progress whatsoever on my Trivia Project.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day45](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day45) Python Project part 1
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+
 
 
 
