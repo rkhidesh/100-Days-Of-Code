@@ -630,8 +630,52 @@ Practice, practice, practice
 ---
 ---
 
+## Day 46
 
+### Today's progress: 
+Scraped a top 100 songs in Billboard song list.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day46](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day46) Billboard Project
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
 
+## Day 47
 
+### Today's progress: 
+Lazily worked on a price tracking project.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day47](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day45) Price Tracker
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 48
+
+### Today's progress: 
+Instead of Beautiful Soup, I learned how to use Selenium which is honestly much better than Beautiful Soup. Made a cookie clicker.
+I kind of gave up on my Trivia Project these days but I really want to complete it so I'm going to keep going.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day48](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day48) Cookie Clicker
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 49
+
+### Today's progress: 
+I made a project which saves a Linkedin job posting using Selenium.
+I figured I did not know much about calling API's in JavaScript so I watched a udemy course on it and I went back to tinkering with the code.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day49](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day45) LinkedIn project
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
 
 
