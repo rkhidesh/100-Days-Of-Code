@@ -677,5 +677,39 @@ Practice, practice, practice
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
+## Day 50
 
+### Today's progress: 
+The project in Python was a Tinder swiping bot so I skipped that and just practiced python online 💀
+Continued tinkering with my Trivia Game.
+
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 51
+
+### Today's progress: 
+I skipped this project too, it was about tweeting to my internet provider whenever my internet is slow.
+I'm too invested in my Trivia Game project. 
+I decided to push all the questions in an array and display them in the flashcard like that.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 52
+
+### Today's progress: 
+I skipped today's project as well. It was an Instagram follower bot and I didn't wanna follow anyone lol.
+Anywas, I'm making good progress on my Trivia Game. Honestly, I've wanted to give up but I really like the project idea so I decided to do all it takes and finish this damn project.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
 
