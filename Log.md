@@ -705,11 +705,78 @@ Practice, practice, practice
 
 ### Today's progress: 
 I skipped today's project as well. It was an Instagram follower bot and I didn't wanna follow anyone lol.
-Anywas, I'm making good progress on my Trivia Game. Honestly, I've wanted to give up but I really like the project idea so I decided to do all it takes and finish this damn project.
+Anyway, I'm making good progress on my Trivia Game. Honestly, I've wanted to give up but I really like the project idea so I decided to do all it takes and finish this damn project.
 ### Thoughts: 
 Practice, practice, practice
 ### Link(s) To Work: 
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
+## Day 53
 
+### Today's progress: 
+I skipped today's project too :sob:
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 54
+
+### Today's progress: 
+Ok so today I learned how to integrate HTML and CSS with Python using Flask framework and Decorator. It was very interesting!
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day54](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day54) No project just some Flask & Python code
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 55
+
+### Today's progress: 
+Made a Higher or Lower game using Flask.
+I DID IT! I made my Trivia Game work!!!!! It worked! All by myself!! Now,all I need to do is improve user experience by disabling the buttons after the user answers all 10 questions, I need to print the final score and finally, I need to ask if they want to play again.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day55](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day55) Higher or Lower Game using Flask
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 56
+
+### Today's progress: 
+I really enjoyed today's course because it integrated web design, and I made a very neat Name Card.
+The buttons are disabled, and now I have to work on the last two details.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day56](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day56) Name Card
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 56
+
+### Today's progress: 
+I really enjoyed today's course because it integrated web design, and I made a very neat Name Card.
+The buttons are disabled, and now I have to work on the last two details.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day56](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day56) Name Card
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 57
+
+### Today's progress: 
+Learned Templating using Jinja and started a blog project in Python.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day57](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day57) Blog Project Part 1
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
