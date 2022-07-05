@@ -756,19 +756,6 @@ Practice, practice, practice
 - [Day56](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day56) Name Card
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
----
-## Day 56
-
-### Today's progress: 
-I really enjoyed today's course because it integrated web design, and I made a very neat Name Card.
-The buttons are disabled, and now I have to work on the last two details.
-### Thoughts: 
-Practice, practice, practice
-### Link(s) To Work: 
-- [Day56](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day56) Name Card
-- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
----
----
 ## Day 57
 
 ### Today's progress: 
@@ -777,6 +764,63 @@ Learned Templating using Jinja and started a blog project in Python.
 Practice, practice, practice
 ### Link(s) To Work: 
 - [Day57](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day57) Blog Project Part 1
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 58
+
+### Today's progress: 
+The Python Module was about Bootstrap, no Python.
+![image](https://user-images.githubusercontent.com/102761065/177230071-5bd1c3d7-bb8e-471d-adc0-bb2000352129.png)
+I made the restart button in my Trivia project and I coded the logic. I figured I would just reload the page onclick.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 59
+
+### Today's progress: 
+Worked on the second part of the Python Project. There are only projects coming up and I'm getting bored 😭
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+
+- [Day57](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day59) Blog Project Part 2
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 60
+
+### Today's progress: 
+I finished my Trivia Game! I figured it all out and it works. However, I know my code can be neatly cleaned up and shortened so I'll try to improve it.
+Didn't work on any Python Projects, just did some coding exercises online.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Quizzler](https://github.com/rkhidesh/Trivia-Game) Trivia Game
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 61
+
+### Today's progress: 
+I thought about my previous Pomodoro Timer and I realised that I needed to implement a countdown sound so that the user will know when the Study Time is over and Break Time is starting so that's what I did. I added audio at every switch.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 61
+
+### Today's progress: 
+I started practicing SQL since I didn't learn a lot in class. I didn't like it lol. I downloaded DataGrip as recommended by my friends and started practicing. 
+In Python, it's just projects after projects so I skipped them.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
