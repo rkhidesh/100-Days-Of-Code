@@ -813,11 +813,43 @@ Practice, practice, practice
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
-## Day 61
+## Day 62
 
 ### Today's progress: 
 I started practicing SQL since I didn't learn a lot in class. I didn't like it lol. I downloaded DataGrip as recommended by my friends and started practicing. 
 In Python, it's just projects after projects so I skipped them.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 63
+
+### Today's progress: 
+I decided to make my first Python Project and make a Discord Bot. A bot which'll play rock-paper-scissors. I started following a tutorial to learn how to use discord.py module. Right now, I made a bot which sends a random inspiration quote to a user. It's different and something fun. 
+![image](https://user-images.githubusercontent.com/102761065/178117428-94a9f0bb-34de-4ede-8670-6f6d120b53c6.png)
+As for my Udemy, I have another Python course bought and I decided to go over it just so that I make sure I know the basics and fundamentals of Python really well. 
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day63](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day63) Inspiration Bot
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 64
+
+## It was just projects in the Python module. I practiced SQL commands but other than that, I kind of dragged my feet 😔
+---
+---
+## Day 65
+
+## I skipped this day 😭
+
+## Day 66
+
+### Today's progress: 
+
 ### Thoughts: 
 Practice, practice, practice
 ### Link(s) To Work: 
