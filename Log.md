@@ -849,10 +849,36 @@ Practice, practice, practice
 ## Day 66
 
 ### Today's progress: 
+I made a discord bot which plays rock paper scissors! Its a really simple bot but its something new for sure. 
+I'm not sure what project to work on next 😕
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day66](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day66) Rock Paper Scissors Bot
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 67
 
+### Today's progress: 
+My python Udemy course got complex really fast and I still need to make sure I know the fundamentals well. So, I'm just doing some Python exercises. No big progress unfortunately.
 ### Thoughts: 
 Practice, practice, practice
 ### Link(s) To Work: 
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
+## Day 68
+
+### Today's progress: 
+I made a Tic-Tac-Toe game in Python. I'm following another Python course for more in-depth learing. 
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Day68](https://github.com/rkhidesh/100-Days-Of-Code/blob/main/100%20Days/day68) Tic-Tac-Toe Game
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+
+## Day 69
+## I skipped this day 😭
