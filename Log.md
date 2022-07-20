@@ -880,5 +880,31 @@ Practice, practice, practice
 ---
 ---
 
-## Day 69
-## I skipped this day 😭
+## Day 69 - Day 74
+## I skipped these days 😭 I practiced some SQL and Python here and there but didn't do much unfortunately 
+---
+---
+## Day 75
+
+### Today's progress: 
+Alright, so I decided to make a movie finder website. Idea came to me by observing that whenever I'm with my friends and we want to watch a movie, we never know what kind of movie we want to watch. Hence, my idea. You enter the genre of the movie you want to watch, and it'll generate 5 movies. If you click generate more, it'll generate 5 new movies.
+I signed up for the Movie API and I got my API key. I used fetch in JS and it works. Now, onto the design of the website.
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 76
+
+### Today's progress: 
+Today, I worked on the design of my website. The first thing is the search button. I wanted it to look modern with smooth animations. That's what I worked on today.
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/102761065/179882470-14f0c6e8-f604-4d46-afb8-810e05ae2877.gif)
+
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
