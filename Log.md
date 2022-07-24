@@ -908,3 +908,59 @@ Practice, practice, practice
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
+## Day 77
+
+### Today's progress: 
+I started working on my logic. First, I want to generate all the genres of the random movies. So, I generated random movies using their IDs, and then made a for loop to loop through the genres. 
+
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 78
+
+### Today's progress: 
+I discovered a bug. It showed me the genres in the console.log but it also throwed a 404 error. After a good while, I removed the = sign from my if statement and the 404 disappeared. However, now, at random times, the 404 appears again. 
+
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 79
+
+### Today's progress: 
+I did some thinking and it seems that some random movie IDs don't exist. That's why the occasional 404 apppears. Someone suggested that I check if the code throws a 404 error, I should rerun the code. 
+
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 80
+
+### Today's progress: 
+I wrote the if statement and now if there is a 404 code, it reruns so that's fixed. Next, I have to start accepting the user inputs and see if they match the genre.
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/102761065/179882470-14f0c6e8-f604-4d46-afb8-810e05ae2877.gif)
+
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+## Day 81 - July 24
+
+
+### Thoughts: 
+Practice, practice, practice
+### Link(s) To Work: 
+- [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
+---
+---
+
