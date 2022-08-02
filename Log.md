@@ -954,8 +954,10 @@ Practice, practice, practice
 - [Portfolio](https://rkhidesh.github.io/Portfolio/) My portfolio
 ---
 ---
-## Day 81 - July 24
+## Day 81 - Day 90
 
+During this time I worked on my Movie Project. What I had in mind originally was to create like and IMDB type of website, but I realized that was a mammoth task I switche to making my personal movie recommendations website. Plus I want the user to be able to search for my movies based on the genre. Today I managed to use the grid display and make it look how I want it to. The next step is that on hover, the user should see it's release date, synopsis and hopefully actors too. 
+![image](https://user-images.githubusercontent.com/102761065/182464935-df8a2094-30e6-4421-870b-927f5d2e5fa1.png)
 
 ### Thoughts: 
 Practice, practice, practice
